@@ -15,3 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/HomePage/index','HomePageController@index');
+Route::get('/Contact/contact','ContactController@index');
+Route::get('/Products/detail','ProductController@index');

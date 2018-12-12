@@ -855,7 +855,7 @@
 
 			<div class="newsletter-popup mfp-hide" id="newsletter-popup-form" style=" background-image: url('{{asset('shop7/img/demos/shop/newsletter_popup_bg.jpg')}}');">
                 <div class="newsletter-popup-content">
-                	<img src="{{asset('shop7/img/demos/shop/logo-shop-charcoal.png')}}" alt="Logo" class="img-responsive center-block">
+                	<img src="{{asset('shop7/img/logo2.png')}}" alt="Logo" class="img-responsive center-block">
                     <h2>BE THE FIRST TO KNOW</h2>
                     <p>Subscribe to the Porto eCommerce newsletter to receive timely updates from your favorite products.</p>
                     <form action="#">

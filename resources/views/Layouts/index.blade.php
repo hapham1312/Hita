@@ -100,7 +100,7 @@
 							<div class="header-column">
 								<div class="header-logo">
 									<a href="demo-shop-7.html">
-										<img alt="Porto" width="108" height="50" src="{{asset('shop7/img/demos/shop/logo-shop-charcoal.png')}}">
+										<img alt="Porto" width="108" height="50" src="{{asset('shop7/img/logo1.png')}}">
 									</a>
 								</div>
 							</div>
