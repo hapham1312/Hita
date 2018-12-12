@@ -197,7 +197,7 @@
 										<nav>
 											<ul class="nav nav-pills" id="mainNav">
 												<li class="dropdown active">
-													<a class="dropdown-toggle" href="demo-shop-7.html">
+													<a class="dropdown" href="demo-shop-7.html">
 														Home
 													</a>
 												</li>
