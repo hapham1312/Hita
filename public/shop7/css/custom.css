@@ -1,0 +1,5 @@
+/* Add here all your CSS customizations */
+html .slider-container .tp-caption-overlay-primary,.slider-container .tp-caption-overlay-opacity{background: none;}
+#headerBookNow ul.dropdown-menu{display:none !important;}
+#headerBookNow > a:after{display: none;}
+
